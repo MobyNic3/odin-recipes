@@ -1,3 +1,3 @@
 # odin-recipes
-Questo e` il primo progetto del coorso "The Odin project".
+Questo e` il primo progetto del corso "The Odin project".
 
